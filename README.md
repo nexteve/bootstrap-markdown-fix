@@ -30,7 +30,6 @@
 ```html
 <script src="//cdn.bootcss.com/jquery/2.1.0/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-<script src="/marked.min.js"></script>
 <script src="js/bootstrap-markdown.js"></script>
 ```
 
