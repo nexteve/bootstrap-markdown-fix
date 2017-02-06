@@ -13,10 +13,10 @@
 
 ## 截图
 编辑
-![Screenshot 1](screenshots/01.png)
+![Screenshot 1](screenshot/01.jpg)
 
 预览
-![Screenshot 1](screenshots/02.png)
+![Screenshot 1](screenshot/02.jpg)
 
 ## 使用
 
